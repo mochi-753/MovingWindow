@@ -7,8 +7,8 @@ clientSideOnly = true
 modId = "${mod_id}"
 version = "${mod_version}"
 displayName = "${mod_name}"
-#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
-#logoFile="examplemod.png"
+displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="logo.png"
 authors = "${mod_authors}"
 description = '''${mod_description}'''
 
