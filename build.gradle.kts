@@ -7,7 +7,7 @@ plugins {
 object Metadata {
     const val MOD_ID = "movingwindow"
     const val MOD_NAME = "Moving Window"
-    const val MOD_VERSION = "1.1.0"
+    const val MOD_VERSION = "1.1.1"
     const val MOD_LICENSE = "MIT"
     const val MOD_DISPLAY_URL = "https://github.com/mochi-753/MovingWindow"
     const val MOD_AUTHORS = "Mochi753"
